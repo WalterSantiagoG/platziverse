@@ -18,5 +18,10 @@
   "homepage": "https://github.com/WalterSantiagoG/platziverse#readme",
   "devDependencies": {
     "standard": "^13.1.0"
+  },
+  "dependencies": {
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.15.1"
   }
 }
